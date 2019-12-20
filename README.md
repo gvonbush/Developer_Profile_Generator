@@ -13,8 +13,7 @@ elecron-html-to
 github-api
 axios
 
-  
-# MIT License
+  # MIT License
 
 Copyright (c) 2019 gvonbush
 
